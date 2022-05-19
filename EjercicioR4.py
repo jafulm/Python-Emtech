@@ -29,4 +29,3 @@ for cont in range(0, len(BdProductos)):
         print ("El producto es: "+ NombreProducto)
         print ("El precio por caja es: "+ str(PrecioCaja))
         print ("El costo total a pagar: "+ str(CostoTotal))
-    

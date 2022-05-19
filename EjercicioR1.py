@@ -30,4 +30,3 @@ print("La temperatura media del estado es :" + str(TempMedAnual)+"°")
 print("Tipos de Clima del Estado")
 for TiposClima in Clima:
     print(TiposClima)
-

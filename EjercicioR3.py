@@ -32,4 +32,3 @@ if ((TotalCarga <= 3254) and (TotalCarga >=1627)):
 else:
     print("El peso total en kg es: " + str(TotalCarga))
     print("¿Se puede realizar el envío?: False")
-

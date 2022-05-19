@@ -56,4 +56,3 @@ if Bandera:
     print('El Total de Habitantes en los 3 Municipios es: '+ str (TotalHabitantes))
     PromedioHabitantes = TotalHabitantes/len(Habitantes)
     print('El Promedio de Habitantes en los 3 Municipios es: '+ str (PromedioHabitantes))
-
